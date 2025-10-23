@@ -1,0 +1,12 @@
+{
+  "name": "pptx-vault",
+  "version": "1.0.0",
+  "description": "PPTX Vault is een kleine statische site om PowerPoint-presentaties te delen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
